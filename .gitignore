@@ -1,0 +1,22 @@
+# Секреты и конфигурация
+.env
+.env.local
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Системный мусор (Windows и Mac)
+.DS_Store
+Thumbs.db
+
+# Редакторы и IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
